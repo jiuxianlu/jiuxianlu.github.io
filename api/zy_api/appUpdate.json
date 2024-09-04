@@ -1,0 +1,8 @@
+{
+    "status":false,
+    "title":"R影1.9.1版本发布",
+    "desc":"1.修复首页加载\n2.详情页功能按钮改为左右滚动\n3.修复Android10闪退问题\n4.其他优化\n升级请点击确认",
+    "versionCode":22,
+    "downloadUrl":"https://jiuxianlu.github.io/ket_1/KET8.apk",
+    "focus":false
+}
