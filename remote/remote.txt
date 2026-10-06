@@ -1,0 +1,23 @@
+# ===== 远程控制配置（纯文本，放 GitHub 后用 raw 链接）=====
+# 每项注释掉或把 _enable 设 0 即关闭
+
+# 1) 弹窗公告
+notice_enable=1
+notice_title=温馨提示
+notice_msg=欢迎使用本应用，使用中有问题请联系客服。
+notice_once=0
+# notice_once=1 表示每个设备安装后只弹一次
+
+# 2) 应用过期（阻断）：到期日当天仍可用，次日起不再加载网页
+expire_enable=0
+expire_date=2026-12-31
+expire_msg=本应用已过期，请更新到最新版本后再使用。
+
+# 3) 升级提示
+upgrade_enable=0
+upgrade_version=2
+upgrade_version_name=2.0
+upgrade_url=https://github.com
+upgrade_force=0
+# upgrade_force=1 表示强制更新（弹窗不可关闭，只能点「立即更新」）
+upgrade_msg=发现新版本，建议立即更新以获得更好体验。
