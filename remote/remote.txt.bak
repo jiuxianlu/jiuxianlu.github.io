@@ -2,7 +2,7 @@
 # 每项注释掉或把 _enable 设 0 即关闭
 
 # 1) 弹窗公告
-notice_enable=0
+notice_enable=1
 notice_title=温馨提示
 notice_msg=欢迎使用本应用，使用中有问题请联系客服。
 notice_once=0
